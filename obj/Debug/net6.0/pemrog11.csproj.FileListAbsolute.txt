@@ -1,0 +1,15 @@
+/Users/rezky/Projects/pemrog11/pemrog11/bin/Debug/net6.0/pemrog11
+/Users/rezky/Projects/pemrog11/pemrog11/bin/Debug/net6.0/pemrog11.deps.json
+/Users/rezky/Projects/pemrog11/pemrog11/bin/Debug/net6.0/pemrog11.runtimeconfig.json
+/Users/rezky/Projects/pemrog11/pemrog11/bin/Debug/net6.0/pemrog11.dll
+/Users/rezky/Projects/pemrog11/pemrog11/bin/Debug/net6.0/pemrog11.pdb
+/Users/rezky/Projects/pemrog11/pemrog11/obj/Debug/net6.0/pemrog11.csproj.AssemblyReference.cache
+/Users/rezky/Projects/pemrog11/pemrog11/obj/Debug/net6.0/pemrog11.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rezky/Projects/pemrog11/pemrog11/obj/Debug/net6.0/pemrog11.AssemblyInfoInputs.cache
+/Users/rezky/Projects/pemrog11/pemrog11/obj/Debug/net6.0/pemrog11.AssemblyInfo.cs
+/Users/rezky/Projects/pemrog11/pemrog11/obj/Debug/net6.0/pemrog11.csproj.CoreCompileInputs.cache
+/Users/rezky/Projects/pemrog11/pemrog11/obj/Debug/net6.0/pemrog11.dll
+/Users/rezky/Projects/pemrog11/pemrog11/obj/Debug/net6.0/refint/pemrog11.dll
+/Users/rezky/Projects/pemrog11/pemrog11/obj/Debug/net6.0/pemrog11.pdb
+/Users/rezky/Projects/pemrog11/pemrog11/obj/Debug/net6.0/pemrog11.genruntimeconfig.cache
+/Users/rezky/Projects/pemrog11/pemrog11/obj/Debug/net6.0/ref/pemrog11.dll
